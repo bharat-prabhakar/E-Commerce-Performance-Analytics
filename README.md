@@ -33,7 +33,7 @@ Customizable: The dashboard is highly customizable, allowing users to add or mod
 
 To use the Excel dashboard, simply open the provided Excel file and interact with the Slicers to filter data as needed. The dashboard will automatically update based on the selected filters, providing real-time insights into different aspects of the business.
 
-# Contributing
+# Contributions
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
