@@ -9,7 +9,7 @@ This project aims to create an interactive Excel dashboard that contains data fr
    
 **Impact:** Enabled management to quickly identify peak and slow sales days, plan promotions on low-performing days, and set realistic sales targets.
 
-3. Difficulty understanding product-wise and category-wise revenue performance
+2. Difficulty understanding product-wise and category-wise revenue performance
    
 **Problem:** Stakeholders couldn’t easily compare sales values against product prices or identify best-selling products.
 
