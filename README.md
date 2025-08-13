@@ -2,13 +2,15 @@
 This project aims to create an interactive Excel dashboard that contains data from Orders, Finance, and Customer Satisfaction. Utilizing Slicers, users can easily filter and analyze the data, gaining insights into sales performance, financial metrics, and customer feedback, empowering effective decision-making and improving overall business performance.
 # Problem Solution And Impact :
 1. Lack of centralized visibility into daily sales trends.
-   **Problem:** The business lacked a single, clear view of overall and average sales performance over time, making it difficult to detect growth patterns or sales dips.
+
+**Problem:** The business lacked a single, clear view of overall and average sales performance over time, making it difficult to detect growth patterns or sales dips.
    
-   **Solution:** Created a Finance Dashboard summarizing overall daily sales, average daily sales value, and revenue bucket distributions, with comparisons between rounded and                     actual sales amounts.
+**Solution:** Created a Finance Dashboard summarizing overall daily sales, average daily sales value, and revenue bucket distributions, with comparisons between rounded and                     actual sales amounts.
    
-   **Impact:** Enabled management to quickly identify peak and slow sales days, plan promotions on low-performing days, and set realistic sales targets.
+**Impact:** Enabled management to quickly identify peak and slow sales days, plan promotions on low-performing days, and set realistic sales targets.
 
 3. Difficulty understanding product-wise and category-wise revenue performance
+   
 **Problem:** Stakeholders couldn’t easily compare sales values against product prices or identify best-selling products.
 
 **Solution:** Built product-level sales reports and visualizations, showing actual vs. average price comparisons, and product demand across price brackets.
@@ -16,6 +18,7 @@ This project aims to create an interactive Excel dashboard that contains data fr
 **Impact:** Allowed procurement and inventory teams to prioritize high-margin, high-demand products while optimizing stock levels.
 
 3. Inconsistent tracking of order fulfillment KPIs
+
 **Problem:** The team had no consolidated metrics for order counts, total revenue, average revenue per order, and discount patterns.
 
 **Solution:** Designed an Order Fulfillment Dashboard with KPIs such as Total Orders, Total Revenue, Average Revenue, and Average Discount, along with daily sales trends and channel-wise (online vs. offline) filtering.
@@ -23,6 +26,7 @@ This project aims to create an interactive Excel dashboard that contains data fr
 **Impact:** Improved operational decision-making by tracking discount impact on revenue and understanding sales trends by order type.
 
 4. Lack of insights into customer service performance and satisfaction
+
 **Problem:** Customer feedback data was not clearly linked to agents, contact types, or dates, making it hard to measure satisfaction or agent productivity.
 
 **Solution:** Created a Customer Service Dashboard showing average satisfaction per agent, number of interactions per agent, contact type frequency, and day-wise satisfaction trends.
@@ -30,6 +34,7 @@ This project aims to create an interactive Excel dashboard that contains data fr
 **Impact:** Helped customer service managers identify top-performing agents and target training for agents or contact types with low satisfaction scores.
 
 5. No clear linkage between order intent, revenue, and customer experience
+
 **Problem:** The business could not correlate whether customer service queries were order-related and how that impacted satisfaction or conversion.
 
 **Solution:** Incorporated "Is it for an order?" intent comparison into the dashboard, breaking down interaction purposes and mapping trends over time.
