@@ -1,4 +1,4 @@
-# Excel_Dashboard_Project
+# E-Commerce Performance Analytics
 This project aims to create an interactive Excel dashboard that contains data from Orders, Finance, and Customer Satisfaction. Utilizing Slicers, users can easily filter and analyze the data, gaining insights into sales performance, financial metrics, and customer feedback, empowering effective decision-making and improving overall business performance.
 
 ![Screenshot 2025-06-18 at 10 47 05 PM](https://github.com/user-attachments/assets/307c0c39-413a-4086-b75c-e8fb1a52b38f)
